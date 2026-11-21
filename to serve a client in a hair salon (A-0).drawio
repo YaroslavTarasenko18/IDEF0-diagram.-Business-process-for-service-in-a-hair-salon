@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="phCAar8yPvWvBm7XWf3i">
+    <mxGraphModel dx="-2816" dy="-3503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-390" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Обслужити клієнта в перукарні&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="460" x="5826.834067274134" y="5427.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-391" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5626.834067274135" y="5637.325127224709" as="sourcePoint" />
+            <mxPoint x="5826.834067274134" y="5637.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-392" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5626.834067274135" y="5507.325127224709" as="sourcePoint" />
+            <mxPoint x="5826.834067274134" y="5507.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-393" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Запит клієнта&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="5616.834067274135" y="5467.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-394" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Інформація про клієнта&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="185" x="5626.834067274135" y="5592.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-395" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#60a917;strokeColor=#2D7600;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5906.834067274134" y="5277.325127224709" as="sourcePoint" />
+            <mxPoint x="5906.834067274134" y="5427.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-396" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Правила обслуговування&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5776.834067274134" y="5277.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-397" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6150.004067274134" y="5277.325127224709" as="sourcePoint" />
+            <mxPoint x="6150.004067274134" y="5427.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-398" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Прейскурант цін&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="6076.194067274135" y="5245.99512722471" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-399" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6186.834067274134" y="5277.325127224709" as="sourcePoint" />
+            <mxPoint x="6186.834067274134" y="5427.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-400" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Графік роботи перукарні&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="6316.834067274134" y="5297.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-401" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6286.834067274134" y="5507.325127224709" as="sourcePoint" />
+            <mxPoint x="6486.834067274134" y="5507.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-402" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Надана перукарська послуга&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="6276.834067274134" y="5467.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-403" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6286.834067274134" y="5622.325127224709" as="sourcePoint" />
+            <mxPoint x="6486.834067274134" y="5622.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-404" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Оплата за послугу&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="6276.834067274134" y="5587.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-405" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#B85450,#FF8000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5906.834067274134" y="5857.325127224709" as="sourcePoint" />
+            <mxPoint x="5906.834067274134" y="5677.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-406" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Перукар&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5756.834067274134" y="5787.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-407" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#000000,#CC0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6056.834067274134" y="5857.325127224709" as="sourcePoint" />
+            <mxPoint x="6056.834067274134" y="5677.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-408" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Перукарське обладнання та інструменти&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5916.194067274135" y="5917.965127224708" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-409" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#000000,#FFFF00);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6256.194067274135" y="5857.325127224709" as="sourcePoint" />
+            <mxPoint x="6256.194067274135" y="5677.325127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-410" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Адміністратор&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="6336.194067274135" y="5757.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-411" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="6236.834067274134" y="5637.325127224709" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-412" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#60a917;strokeColor=#2D7600;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="5806.834067274134" y="5317.325127224709" as="sourcePoint" />
+            <mxPoint x="5907.634067274135" y="5345.985127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-413" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="6089.998560529436" y="5283.475714285713" as="sourcePoint" />
+            <mxPoint x="6150.794067274135" y="5341.175127224708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-414" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="6306.834067274134" y="5322.145127224709" as="sourcePoint" />
+            <mxPoint x="6186.834067274134" y="5332.145127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-415" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Обслужити клієнта в перукарні&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="440" x="5456.834067274135" y="6287.965127224708" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-416" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;A-0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="130" width="185" x="5271.834067274135" y="6287.965127224708" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-417" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#FFFF00,#FFFF00);strokeWidth=2;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="6256.196739010968" y="5822.322627358852" as="sourcePoint" />
+            <mxPoint x="6359.756739010967" y="5797.962627358853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-418" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Адміністративне обладнання та програмне забезпечення" vertex="1">
+          <mxGeometry height="30" width="60" x="6076.196739010968" y="5927.962627358853" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-419" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#000000,#27FFC8);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6166.196739010968" y="5857.962627358853" as="sourcePoint" />
+            <mxPoint x="6166.196739010968" y="5677.322627358852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-420" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#000000,#27FFC8);strokeWidth=2;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="6165.946739010968" y="5827.962627358853" as="sourcePoint" />
+            <mxPoint x="6125.946739010968" y="5903.602627358852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-421" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#B85450,#FF8000);strokeWidth=2;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="5906.836739010967" y="5787.962627358853" as="sourcePoint" />
+            <mxPoint x="5826.836739010967" y="5803.602627358852" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-422" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#B85450,#CC0000);strokeWidth=2;" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="6056.196739010968" y="5817.322627358852" as="sourcePoint" />
+            <mxPoint x="5976.196739010968" y="5897.962627358853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-423" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#000000,#994C00);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5984.428560529436" y="5279.245714285715" as="sourcePoint" />
+            <mxPoint x="5984.428560529436" y="5427.325714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-424" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#1ba1e2;strokeColor=light-dark(#000000,#994C00);" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="5924.428560529436" y="5238.285714285714" as="sourcePoint" />
+            <mxPoint x="5985.224067274135" y="5295.985127224709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-425" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Перелік перукарських послуг" vertex="1">
+          <mxGeometry height="30" width="60" x="5884.428560529436" y="5198.285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-426" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;strokeColor=light-dark(#000000,#BE83FF);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="6030" y="5197.33" as="sourcePoint" />
+            <mxPoint x="6030" y="5427.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-427" edge="1" parent="1" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=2;fillColor=#1ba1e2;strokeColor=light-dark(#000000,#BE83FF);" value="">
+          <mxGeometry height="100" relative="1" width="50" as="geometry">
+            <mxPoint x="5970" y="5160" as="sourcePoint" />
+            <mxPoint x="6030.795506744699" y="5217.699412938995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6DRgWDtGTVtFf3JnHqaA-428" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Технологічні вимоги до підготовки волосся" vertex="1">
+          <mxGeometry height="30" width="60" x="5944.43" y="5110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
